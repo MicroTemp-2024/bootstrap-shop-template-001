@@ -3,6 +3,6 @@ bootstrap shop template 001 shop-homepage
 
 ![shop-homepage](/assets/shop-homepage.png)
 
-## support responsive website
+## Support Responsive Website
 
 ![responsive](/assets/responsive.png)
